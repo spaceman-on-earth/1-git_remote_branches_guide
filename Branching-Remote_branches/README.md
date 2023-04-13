@@ -29,7 +29,7 @@ Russian edition.
 
 ![Удаленная отслеживающая ветка для ветки teamone/master](https://git-scm.com/book/en/v2/images/remote-branches-5.png "Удаленная отслеживающая ветка для ветки teamone/master")
 
-## Отправка данных
+## Отправка данных (git push)
 
 ## Слежение за ветками
 
