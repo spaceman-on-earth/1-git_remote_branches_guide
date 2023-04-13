@@ -115,6 +115,11 @@ Guide to working with remotes. Russian edition.
 
 Если по какой-то причине вы хотите удалить ссылку на удаленный репозиторий (например, вы поменяли сервер, больше не используете конкретное зеркало или участник проекта перестал вносить в него вклад), используйте команду **git remote rm**.
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 # GIT REMOTE BRANCHES GUIDE
 
 Guide to basic operations with remote branches in Git.  
