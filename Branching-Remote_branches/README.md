@@ -118,7 +118,6 @@ Guide to working with remotes. Russian edition.
 <br/>
 <br/>
 <br/>
-<br/>
 
 # GIT REMOTE BRANCHES GUIDE
 
