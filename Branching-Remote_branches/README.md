@@ -1,4 +1,8 @@
-# Git remote branches guide
+# Preamble - Working with remotes
+
+
+
+# GIT REMOTE BRANCHES GUIDE
 
 Guide to basic operations with remote branches in Git.  
 Russian edition.  
